@@ -1,0 +1,6 @@
+.borderless li{
+    border: none;
+}
+.borderless li a {
+    color: black;
+}
